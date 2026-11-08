@@ -85,9 +85,23 @@ Exploring    →  Better UX, accessibility & scalable UI
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahaabusyam&show_icons=true&hide_border=true&bg_color=00000000&title_color=5fd0c5&icon_color=2a8c82&text_color=9fb3c8&ring_color=2a8c82" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaabusyam&layout=compact&hide_border=true&bg_color=00000000&title_color=5fd0c5&text_color=9fb3c8" height="165"></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaabusyam&hide_border=true&background=00000000&ring=2a8c82&fire=5fd0c5&currStreakLabel=5fd0c5&sideLabels=9fb3c8&dates=718096" width="70%"></div>---
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahaabusyam&show_icons=true&hide_border=true&bg_color=00000000&title_color=5fd0c5&icon_color=2a8c82&text_color=9fb3c8&ring_color=2a8c82" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaabusyam&layout=compact&hide_border=true&bg_color=00000000&title_color=5fd0c5&text_color=9fb3c8" height="165">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaabusyam&hide_border=true&background=00000000&ring=2a8c82&fire=5fd0c5&currStreakLabel=5fd0c5&sideLabels=9fb3c8&dates=718096" width="70%">
+
+</div>---
 
 <div align="center">✦ BUILD · LEARN · CREATE ✦
 
