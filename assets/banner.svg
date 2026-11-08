@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Maha Ahmed Abu Syam, Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f3a5f"/>
+      <stop offset="1" stop-color="#14263d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a8c82"/>
+      <stop offset="1" stop-color="#5fd0c5"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#dots)"/>
+
+  <circle cx="1130" cy="60" r="170" fill="none" stroke="#5fd0c5" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1130" cy="60" r="120" fill="none" stroke="#5fd0c5" stroke-opacity="0.12" stroke-width="2"/>
+  <text x="925" y="250" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="190" font-weight="700" fill="#ffffff" fill-opacity="0.07">&lt;/&gt;</text>
+
+  <rect x="80" y="74" width="72" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="80" y="140" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Maha Ahmed Abu Syam</text>
+  <text x="80" y="187" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" fill="#5fd0c5">Frontend Developer · React · TypeScript</text>
+  <text x="80" y="224" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#c9d6e3">Building responsive, accessible web apps · Gaza, Palestine</text>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e6eef5" text-anchor="middle">
+    <rect x="80"  y="250" width="70"  height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="115" y="270">React</text>
+    <rect x="162" y="250" width="104" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="214" y="270">TypeScript</text>
+    <rect x="278" y="250" width="124" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="340" y="270">Redux Toolkit</text>
+    <rect x="414" y="250" width="84"  height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="456" y="270">Zustand</text>
+    <rect x="510" y="250" width="108" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="564" y="270">Material UI</text>
+    <rect x="630" y="250" width="90"  height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#5fd0c5" stroke-opacity="0.45"/>
+    <text x="675" y="270">Tailwind</text>
+  </g>
+</svg>
