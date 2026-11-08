@@ -1,75 +1,96 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Maha Ahmed Abu Syam, Frontend Developer" width="100%">
-</div>
+  <img src="assets/banner.svg" alt="Maha Ahmed Abu Syam — Frontend Developer" width="100%">
+</div><br><div align="center">Frontend Developer · React · TypeScript
 
-<br>
+Building responsive, accessible and thoughtfully engineered web applications.
 
-<p align="center">
-  Fifth-year Computer Systems Engineering student (graduating 2027). I build responsive React and TypeScript applications and care about clean state management, data validation and accessible UI.
-</p>
+<br><a href="https://www.linkedin.com/in/eng-maha-ahmed-abu-syam-365089405">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2a8c82?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/mahaabusyam?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-1f3a5f?style=for-the-badge&logo=github&logoColor=white">
+</a></div><br>---
 
-<p align="center">
-  <b>Open to Frontend junior roles</b>
-</p>
+👩‍💻 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eng-maha-ahmed-abu-syam-365089405"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2a8c82?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/mahaabusyam?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-1f3a5f?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+I'm a fifth-year Computer Systems Engineering student, graduating in 2027, focused on Frontend Development.
 
-## Featured projects
+I build modern web applications with React and TypeScript, with a strong interest in clean architecture, typed state management, validation, accessibility and responsive UI.
+
+Currently open to Frontend Junior opportunities.
+
+---
+
+🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>PromptLab</h3>
-      <p>Local-first prompt editor with versioning, templates and side-by-side comparison.</p>
-      <p><sub>React 19 · TypeScript · Zustand · Zod · Tailwind CSS</sub></p>
-      <p><a href="https://prompt-lab-ivory.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/PromptLab">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tour Guide</h3>
-      <p>Tourism website with city-based activities, trip details and URL-based filters.</p>
-      <p><sub>React · Redux Toolkit · Material UI</sub></p>
-      <p><a href="https://tour-guide-eng-maha.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tour-guide">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Tradix</h3>
-      <p>Responsive stock trading dashboard with live prices, charts and transactions.</p>
-      <p><sub>React · Redux Toolkit · Material UI · MUI X Charts</sub></p>
-      <p><a href="https://tradix-amber.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tradix">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Mini Store</h3>
-      <p>E-commerce app with cart, wishlist and checkout.</p>
-      <p><sub>React 19 · Redux Toolkit · Material UI</sub></p>
-      <p><a href="https://mahaabusyam.github.io/mini-store/">Live demo</a> · <a href="https://github.com/mahaabusyam/mini-store">Code</a></p>
-    </td>
-  </tr>
-</table>
+    <td width="50%" valign="top">⚡ PromptLab
 
-## Tech stack
+Local-first AI prompt workspace with versioning, templates, favorites and side-by-side comparison.
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f3a5f?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1f3a5f?style=flat-square&logo=typescript&logoColor=3178C6">
-  <img alt="React" src="https://img.shields.io/badge/React-1f3a5f?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux_Toolkit-1f3a5f?style=flat-square&logo=redux&logoColor=764ABC">
-  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-1f3a5f?style=flat-square&logo=mui&logoColor=007FFF">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1f3a5f?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-1f3a5f?style=flat-square&logo=vite&logoColor=646CFF">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1f3a5f?style=flat-square&logo=html5&logoColor=E34F26">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1f3a5f?style=flat-square&logo=css3&logoColor=1572B6">
-  <img alt="Git" src="https://img.shields.io/badge/Git-1f3a5f?style=flat-square&logo=git&logoColor=F05032">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1f3a5f?style=flat-square&logo=vercel&logoColor=white">
-</p>
+React 19 · TypeScript · Zustand · Zod · Tailwind CSS
 
-Also: React Router, React Hook Form, Zod, Axios, Vitest, Bootstrap 5.
+<a href="https://prompt-lab-ivory.vercel.app/">Live Demo</a> ·
+<a href="https://github.com/mahaabusyam/PromptLab">Source Code</a>
 
-## Currently
+</td><td width="50%" valign="top">🌍 Tour Guide
 
-- Building a full TypeScript mini store (strict mode, typed state and runtime validation)
-- Practicing for Frontend junior interviews
-  
+Tourism platform with city-based activities, trip details and URL-driven filtering.
+
+React · Redux Toolkit · Material UI
+
+<a href="https://tour-guide-eng-maha.vercel.app/">Live Demo</a> ·
+<a href="https://github.com/mahaabusyam/tour-guide">Source Code</a>
+
+</td>
+</tr><tr>
+<td width="50%" valign="top">📈 Tradix
+
+Responsive trading dashboard featuring market data, charts, transactions and dashboard views.
+
+React · Redux Toolkit · Material UI · MUI X Charts
+
+<a href="https://tradix-amber.vercel.app/">Live Demo</a> ·
+<a href="https://github.com/mahaabusyam/tradix">Source Code</a>
+
+</td><td width="50%" valign="top">🛍️ Mini Store
+
+Modern e-commerce application with cart management, wishlist and checkout flow.
+
+React 19 · Redux Toolkit · Material UI
+
+<a href="https://mahaabusyam.github.io/mini-store/">Live Demo</a> ·
+<a href="https://github.com/mahaabusyam/mini-store">Source Code</a>
+
+</td>
+</tr>
+</table>---
+
+🧩 Tech Stack
+
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,mui,vite,git,github,vercel&perline=6" /></div><br><div align="center">Also working with
+
+"React Router" · "React Hook Form" · "Zod" · "Axios" · "Vitest" · "Bootstrap 5"
+
+</div>---
+
+🔭 Currently
+
+Building     →  TypeScript applications with strict typing
+Improving    →  React architecture & frontend patterns
+Practicing   →  Frontend Junior interviews
+Exploring    →  Better UX, accessibility & scalable UI
+
+---
+
+📊 GitHub Activity
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahaabusyam&show_icons=true&hide_border=true&bg_color=00000000&title_color=5fd0c5&icon_color=2a8c82&text_color=9fb3c8&ring_color=2a8c82" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaabusyam&layout=compact&hide_border=true&bg_color=00000000&title_color=5fd0c5&text_color=9fb3c8" height="165"></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaabusyam&hide_border=true&background=00000000&ring=2a8c82&fire=5fd0c5&currStreakLabel=5fd0c5&sideLabels=9fb3c8&dates=718096" width="70%"></div>---
+
+<div align="center">✦ BUILD · LEARN · CREATE ✦
+
+Turning ideas into interfaces.
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,100:2a8c82&height=100&section=footer" width="100%"></div>
