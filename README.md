@@ -17,31 +17,23 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>PromptLab</h3>
-      <p>Local-first prompt editor with versioning, templates and side-by-side comparison.</p>
-      <p><sub>React 19 · TypeScript · Zustand · Zod · Tailwind CSS</sub></p>
-      <p><a href="https://prompt-lab-ivory.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/PromptLab">Code</a></p>
+    <td width="50%" align="center">
+      <a href="https://prompt-lab-ivory.vercel.app/"><img src="assets/card-promptlab.svg" alt="PromptLab" width="100%"></a>
+      <br><a href="https://prompt-lab-ivory.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/PromptLab">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Tour Guide</h3>
-      <p>Tourism website with city-based activities, trip details and URL-based filters.</p>
-      <p><sub>React · Redux Toolkit · Material UI</sub></p>
-      <p><a href="https://tour-guide-eng-maha.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tour-guide">Code</a></p>
+    <td width="50%" align="center">
+      <a href="https://tour-guide-eng-maha.vercel.app/"><img src="assets/card-tourguide.svg" alt="Tour Guide" width="100%"></a>
+      <br><a href="https://tour-guide-eng-maha.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tour-guide">Code</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Tradix</h3>
-      <p>Responsive stock trading dashboard with live prices, charts and transactions.</p>
-      <p><sub>React · Redux Toolkit · Material UI · MUI X Charts</sub></p>
-      <p><a href="https://tradix-amber.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tradix">Code</a></p>
+    <td width="50%" align="center">
+      <a href="https://tradix-amber.vercel.app/"><img src="assets/card-tradix.svg" alt="Tradix" width="100%"></a>
+      <br><a href="https://tradix-amber.vercel.app/">Live demo</a> · <a href="https://github.com/mahaabusyam/tradix">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>Mini Store</h3>
-      <p>E-commerce app with cart, wishlist and checkout.</p>
-      <p><sub>React 19 · Redux Toolkit · Material UI</sub></p>
-      <p><a href="https://mahaabusyam.github.io/mini-store/">Live demo</a> · <a href="https://github.com/mahaabusyam/mini-store">Code</a></p>
+    <td width="50%" align="center">
+      <a href="https://mahaabusyam.github.io/mini-store/"><img src="assets/card-ministore.svg" alt="Mini Store" width="100%"></a>
+      <br><a href="https://mahaabusyam.github.io/mini-store/">Live demo</a> · <a href="https://github.com/mahaabusyam/mini-store">Code</a>
     </td>
   </tr>
 </table>
