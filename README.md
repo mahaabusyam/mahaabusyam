@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mahaabusyam.github.io">
+  <a href="https://mahaabusyamgithubio.vercel.app/">
     <img src="assets/portfolio-cta.svg" alt="Visit my portfolio: mahaabusyam.github.io" width="100%">
   </a>
 </p>
