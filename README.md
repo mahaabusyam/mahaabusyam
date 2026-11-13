@@ -9,8 +9,15 @@
 </p>
 
 <p align="center">
+  <a href="https://mahaabusyam.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mahaabusyam.github.io-5fd0c5?style=for-the-badge&logo=googlechrome&logoColor=0f1d33&labelColor=0f1d33"></a>
   <a href="https://www.linkedin.com/in/eng-maha-ahmed-abu-syam-365089405"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2a8c82?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mahaabusyam?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Repositories-1f3a5f?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://mahaabusyam.github.io">
+    <img src="assets/portfolio-cta.svg" alt="Visit my portfolio: mahaabusyam.github.io" width="100%">
+  </a>
 </p>
 
 ## Featured projects
